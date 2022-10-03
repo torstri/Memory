@@ -1,0 +1,15 @@
+.row{
+    text-align: center;
+}
+.card{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: beige;
+    cursor: pointer;
+}
+
+.card:hover{
+    border: 1px solid black;
+    background-color: bisque;
+}
